@@ -9,7 +9,6 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - **Product Performance** – Analyze high- and low-performing models, focusing on their body styles.
 
 ---
-Product Performance – "
 ## Important Files
 
 | Task | Link |
@@ -121,7 +120,7 @@ Product Performance – "
 ## Recommendations & Strategic Actions
 
 - **Phase Out Sebring Convertible**:Sales remain critically low with only a +1.86% year-over-year (YoY) increase, showing no significant improvement compared to 2022. It is advisable to consider phasing out this model due to consistently poor performance in both units sold and revenue.
-- **Optimize Hardtop Sales During Peak Months:**:Although Hardtop sales saw occasional spikes ( +304.77% MoM in October), overall contribution remains low at 13.85% of total sales. Re-strategize pricing, promotions, and inventory for Hardtop models, particularly during high-traffic months like September, to maximize returns.
+- **Optimize Hardtop Sales During Peak Months**:Although Hardtop sales saw occasional spikes ( +304.77% MoM in October), overall contribution remains low at 13.85% of total sales. Re-strategize pricing, promotions, and inventory for Hardtop models, particularly during high-traffic months like September, to maximize returns.
 - **Expand High-Performing Brands**: Consider expanding the model range for brands with strong sales performance, including Chevrolet, Volvo, BMW, and other top 9 revenue-generating companies. Introducing new or refreshed models under these brands can capitalize on existing brand momentum.
 - **Boost Marketing in Weak Months**: Months like January and October, which historically underperform, require targeted marketing campaigns, limited-time offers, and customer incentives to stimulate demand during these slow periods.
 - **Use Dynamic Pricing in Peak Months**: During peak sales months such as May, September, November, and December, consider dynamic pricing strategies, bundling, or value-added promotions to further boost revenue and capitalize on seasonal demand.
