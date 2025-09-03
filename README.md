@@ -44,6 +44,8 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - Columns: `trans_id`, `transmission`, `engine`
 - Description: Transmission type and engine specifications.
 
+
+![Alt Text](image-path-or-URL)
 ---
 
 ## Executive Summary
