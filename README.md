@@ -60,7 +60,7 @@ Product Performance – "
 
 - These sales trends highlight critical seasonal opportunities and regional strengths, guiding targeted marketing efforts and inventory planning to sustain growth in 2024.
 
-![](Overview.png)
+![]([Overview.png](https://github.com/Sanele-Zondo/test/blob/055e5228554a1fad33a4cd2bc38d94bfc21e9742/Dashboard/Overview.png))
 
 ---
 
