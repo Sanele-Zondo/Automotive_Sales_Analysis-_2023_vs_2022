@@ -104,7 +104,7 @@ Product Performance – "
   - SUVs contributed the most, accounting for 26.91% of total sales. Hatchbacks followed with 22.30%, while Hardtops contributed the least at 13.85%.
   
   - Units sold were higher for automatic transmissions (6,918) compared to manual transmissions (6,343). The largest divergence by transmission type was seen in the Hatchback segment, where automatic vehicles outsold manual by 454 units.
- ![](Product.png)
+ ![](https://github.com/Sanele-Zondo/test/blob/d5bfaea0b48a20ffbd3f6697d0f004ef47cc2ba7/Dashboard/Product.png)
 
 #### Revenue by Body Style (Top Brands):
 
