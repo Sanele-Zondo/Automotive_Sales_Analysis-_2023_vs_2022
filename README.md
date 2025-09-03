@@ -15,10 +15,9 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 | Task | Link |
 |------|------|
 | Original Datasets | *(Add link here)* |
-| Data Cleaning in SQL | *(data_cleaning.sql)* |
-| Data Inspection in SQL | *(Add link here)* |
+| Data Cleaning in SQL | [Data Cleaning](https://github.com/Sanele-Zondo/test/blob/e5237dfd057efc85c29ebd95f20b929e0f3683b7/data_cleaning.sql)|
 | Data Validation in SQL | [Normalization.sql](https://github.com/Sanele-Zondo/test/blob/be74f86e3664e07749f04e033e9dbd33495dbe8b/Normalization.sql) |
-| Normalization in SQL | [Normalization.sql](https://github.com/Sanele-Zondo/test/blob/be74f86e3664e07749f04e033e9dbd33495dbe8b/Normalization.sql) |
+| Normalization in SQL | [Normalization](https://github.com/Sanele-Zondo/test/blob/be74f86e3664e07749f04e033e9dbd33495dbe8b/Normalization.sql) |
 | Power BI Dashboard | *(Add link here)* |
 
 ---
