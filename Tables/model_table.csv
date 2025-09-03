@@ -1,0 +1,217 @@
+5,Acura,TL,Hatchback
+24,Porsche,Carrera Cabrio,Passenger
+26,Dodge,Viper,SUV
+49,Nissan,Altima,Hatchback
+56,Saturn,SW,Passenger
+65,Dodge,Intrepid,Sedan
+71,Cadillac,DeVille,SUV
+75,Volkswagen,Jetta,Passenger
+61,Toyota,Tacoma,Hardtop
+62,Mercedes-B,C-Class,Hatchback
+87,Dodge,Dakota,Sedan
+112,Buick,Park Avenue,Hatchback
+115,Audi,A4,Hardtop
+120,Chrysler,Concorde,Hatchback
+137,Lexus,ES300,SUV
+108,Chevrolet,Prizm,Hardtop
+117,Mitsubishi,Diamante,Hatchback
+122,Chevrolet,Monte Carlo,Hatchback
+144,Oldsmobile,Intrigue,SUV
+145,Acura,RL,SUV
+147,Oldsmobile,Silhouette,Sedan
+166,Plymouth,Breeze,SUV
+173,Nissan,Pathfinder,Hardtop
+184,Toyota,Celica,SUV
+217,Nissan,Frontier,Hatchback
+224,Honda,Accord,Sedan
+250,Volkswagen,Golf,Hardtop
+259,Toyota,Corolla,Passenger
+276,Ford,Windstar,Sedan
+219,Mitsubishi,Montero Sport,SUV
+249,Nissan,Quest,SUV
+253,Ford,Ranger,Hatchback
+256,Chevrolet,Prizm,SUV
+260,Toyota,RAV4,Hatchback
+262,Chevrolet,Cavalier,SUV
+263,Nissan,Maxima,Sedan
+321,Nissan,Pathfinder,SUV
+330,Nissan,Pathfinder,Hatchback
+354,Volvo,S70,SUV
+336,Saab,9-5,Hatchback
+290,Hyundai,Sonata,SUV
+294,Honda,Passport,Hatchback
+297,Honda,Passport,Hardtop
+302,Porsche,Boxter,SUV
+304,Lexus,LX470,SUV
+311,Dodge,Stratus,Hatchback
+347,Infiniti,I30,SUV
+370,Plymouth,Prowler,Hatchback
+371,Saturn,SC,Hatchback
+395,Mercedes-B,SLK,Passenger
+405,Dodge,Avenger,Passenger
+460,Mitsubishi,Galant,Passenger
+463,Mitsubishi,Eclipse,Hardtop
+385,Dodge,Ram Pickup,Hardtop
+424,Mercury,Cougar,Hatchback
+433,Cadillac,Eldorado,Passenger
+435,Ford,F-Series,Passenger
+468,Mitsubishi,Montero Sport,Hatchback
+475,Mercedes-B,SLK230,Hatchback
+497,BMW,323i,Hatchback
+505,Chrysler,300M,SUV
+506,Dodge,Ram Pickup,Hatchback
+518,Cadillac,Catera,Hatchback
+479,Subaru,Outback,SUV
+489,Saturn,SC,SUV
+503,Volkswagen,Passat,Hatchback
+504,Porsche,Carrera Coupe,Hatchback
+519,Infiniti,I30,Hardtop
+545,Porsche,Carrera Coupe,Hardtop
+571,Dodge,Caravan,Hatchback
+580,Acura,Integra,Passenger
+599,Plymouth,Breeze,Hatchback
+564,BMW,328i,Sedan
+565,Toyota,Tacoma,Hatchback
+623,Honda,CR-V,SUV
+640,Chrysler,Concorde,SUV
+614,Mercedes-B,M-Class,Hatchback
+615,Chevrolet,Prizm,Hatchback
+617,Mercury,Grand Marquis,SUV
+622,Ford,Focus,Hatchback
+630,Lincoln,Town car,Hatchback
+636,Toyota,Sienna,Passenger
+706,Volvo,V40,SUV
+655,Lexus,GS300,Passenger
+714,Saab,9-3,Sedan
+660,Hyundai,Elantra,Sedan
+686,Mitsubishi,3000GT,Sedan
+711,Lexus,GS400,Hatchback
+718,Chrysler,Town & Country,Sedan
+738,BMW,528i,SUV
+824,Subaru,Forester,Hardtop
+825,Dodge,Caravan,Hardtop
+775,Infiniti,I30,Hatchback
+841,Saturn,LW,Hatchback
+852,Dodge,Caravan,SUV
+870,Saturn,LS,Sedan
+899,Mercury,Villager,Passenger
+901,Oldsmobile,Cutlass,Sedan
+921,Toyota,Tacoma,SUV
+865,Mitsubishi,Montero Sport,Hardtop
+875,Plymouth,Breeze,Hardtop
+877,Volvo,S70,Hatchback
+881,Chevrolet,Malibu,SUV
+891,Lincoln,Continental,Passenger
+906,Dodge,Ram Pickup,SUV
+907,Ford,Expedition,SUV
+941,Mitsubishi,Mirage,SUV
+963,Saturn,SC,Hardtop
+989,Pontiac,Grand Am,SUV
+1004,Volkswagen,Cabrio,Sedan
+1015,Chevrolet,Metro,Passenger
+957,Mercedes-B,CL500,SUV
+966,Ford,Taurus,SUV
+977,Honda,Passport,SUV
+988,Jeep,Grand Cherokee,SUV
+992,Jeep,Wrangler,Hatchback
+1019,Mercedes-B,SL-Class,Hatchback
+1041,Mercury,Mountaineer,Hatchback
+1078,Toyota,Camry,Hatchback
+1081,Mercedes-B,CLK Coupe,Sedan
+1111,Lincoln,Navigator,Sedan
+1072,Subaru,Forester,Hatchback
+1149,Chrysler,Sebring Conv.,SUV
+1176,Pontiac,Sunfire,Sedan
+1185,Ford,Explorer,Hatchback
+1187,Chrysler,Sebring Coupe,Sedan
+1132,Oldsmobile,Bravada,Hatchback
+1139,Plymouth,Neon,SUV
+1197,Porsche,Carrera Coupe,SUV
+1291,Mitsubishi,Eclipse,Hatchback
+1236,Cadillac,Seville,Hatchback
+1258,Chevrolet,Malibu,Hatchback
+1260,Audi,A6,SUV
+1311,Mercedes-B,S-Class,SUV
+1327,Ford,Crown Victoria,Passenger
+1358,Cadillac,Escalade,Sedan
+1335,Pontiac,Firebird,Hardtop
+1449,Pontiac,Grand Prix,Passenger
+1461,Chrysler,Concorde,Hardtop
+1481,Ford,Focus,SUV
+1488,Dodge,Durango,SUV
+1549,Audi,A4,Hatchback
+1513,Volvo,C70,Hatchback
+1527,Audi,A8,Passenger
+1670,Chrysler,LHS,Hatchback
+1642,Ford,Mustang,Hatchback
+1690,Buick,LeSabre,Sedan
+1840,Nissan,Sentra,Passenger
+1809,Mercedes-B,SL-Class,SUV
+1885,Hyundai,Accent,Hatchback
+1902,Ford,Focus,Hardtop
+1921,Volvo,S40,Sedan
+1972,Dodge,Ram Van,Hatchback
+1996,Volkswagen,Golf,SUV
+2014,Pontiac,Bonneville,Hatchback
+2031,Ford,Contour,Sedan
+2026,Toyota,4Runner,Sedan
+2054,Lexus,ES300,Hatchback
+2073,Chevrolet,Malibu,Hardtop
+2127,Plymouth,Voyager,Passenger
+2321,Mercedes-B,M-Class,Hardtop
+2391,Volvo,V70,Passenger
+2405,Buick,Regal,Passenger
+2453,Chevrolet,Camaro,Sedan
+2439,Mitsubishi,Eclipse,SUV
+2600,Volvo,S70,Hardtop
+2591,Honda,Civic,Hatchback
+2630,Honda,Odyssey,Passenger
+2747,Mercury,Sable,Sedan
+2758,Jaguar,S-Type,Passenger
+2814,Volvo,S80,Sedan
+2960,Saturn,SL,SUV
+2924,Volkswagen,Beetle,Hatchback
+2966,Lexus,LS400,Sedan
+3015,Mercedes-B,E-Class,Sedan
+3000,Volkswagen,GTI,SUV
+3113,Jeep,Cherokee,Sedan
+3108,Cadillac,Seville,Hardtop
+3226,Chrysler,Cirrus,Passenger
+3175,Mercedes-B,SL-Class,Hardtop
+3235,Ford,Ranger,Hardtop
+3469,Chevrolet,Impala,Hatchback
+3583,Mercedes-B,M-Class,SUV
+3653,Chevrolet,Corvette,SUV
+3668,Pontiac,Firebird,Hatchback
+3802,Chevrolet,Lumina,Passenger
+3812,Mitsubishi,Montero,SUV
+3848,Audi,A4,SUV
+3951,Volkswagen,Beetle,Hardtop
+4104,Ford,Escort,Passenger
+4117,Volkswagen,Beetle,SUV
+4120,Lexus,ES300,Hardtop
+4271,Dodge,Ram Wagon,Passenger
+4371,Cadillac,Seville,SUV
+4632,Pontiac,Firebird,SUV
+4900,Toyota,Land Cruiser,SUV
+4936,Mercury,Mystique,Passenger
+5286,Subaru,Forester,SUV
+5325,Toyota,Avalon,Sedan
+5535,Ford,Ranger,SUV
+5633,Oldsmobile,Aurora,Passenger
+5668,Buick,Century,Hardtop
+5897,Volkswagen,Golf,Hatchback
+6057,Dodge,Neon,Hatchback
+6149,Dodge,Neon,Hardtop
+6343,Nissan,Xterra,Passenger
+6881,Buick,Century,Hatchback
+6914,Mercury,Mountaineer,Hardtop
+8451,Oldsmobile,Alero,Hatchback
+8618,Lexus,RX300,Hatchback
+10158,Mercury,Mountaineer,SUV
+10403,Oldsmobile,Alero,SUV
+13043,Lexus,RX300,Hardtop
+15763,Oldsmobile,Alero,Hardtop
+16734,Lexus,RX300,SUV
+17439,Buick,Century,SUV
+17874,Dodge,Neon,SUV
