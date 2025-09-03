@@ -18,7 +18,6 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 | Data Cleaning in SQL | [Data Cleaning](https://github.com/Sanele-Zondo/test/blob/e5237dfd057efc85c29ebd95f20b929e0f3683b7/data_cleaning.sql)|
 | Data Validation in SQL | [Data Validation](https://github.com/Sanele-Zondo/test/blob/518b56a03289ab87aa8fcf903d10816b11ec9a8d/data_validations.sql) |
 | Normalization in SQL | [Normalization](https://github.com/Sanele-Zondo/test/blob/be74f86e3664e07749f04e033e9dbd33495dbe8b/Normalization.sql) |
-| Power BI Dashboard | *(Add link here)* |
 
 ---
 
