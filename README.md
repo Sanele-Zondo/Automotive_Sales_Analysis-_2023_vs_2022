@@ -43,7 +43,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - Description: Transmission type and engine specifications.
 
 #### `Entity Relationship Diagram`
-[![Entity Relationship Diagram](erd.png)](https://github.com/Sanele-Zondo/test/blob/4402b6946777c36d9ce1340a9b8f2a715120ad07/Dashboard/erd.png)
+![Entity Relationship Diagram](https://github.com/Sanele-Zondo/test/blob/4402b6946777c36d9ce1340a9b8f2a715120ad07/Dashboard/erd.png)
 ---
 
 ## Executive Summary
