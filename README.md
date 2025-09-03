@@ -6,10 +6,10 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 
 ### Focus Areas:
 - **Sales Trends** – Examine seasonality, growth spikes, and monthly patterns over 24 months.
-- **Product Performance** – Identify top-performing products, new launches, and shifts in product mix or pricing.
+- **Product Performance** – Analyze high- and low-performing models, focusing on their body styles.
 
 ---
-
+Product Performance – "
 ## Important Files
 
 | Task | Link |
