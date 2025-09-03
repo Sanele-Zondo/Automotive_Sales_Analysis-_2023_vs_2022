@@ -127,9 +127,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - **Boost Marketing in Weak Months**: Months like January and October, which historically underperform, require targeted marketing campaigns, limited-time offers, and customer incentives to stimulate demand during these slow periods.
 - **Use Dynamic Pricing in Peak Months**: During peak sales months such as May, September, November, and December, consider dynamic pricing strategies, bundling, or value-added promotions to further boost revenue and capitalize on seasonal demand.
 
-- **Improve Dealer Region Strategy**:
-  - Focus on **Pasco** (+21.89% YoY) and **Middletown** (+20.21% YoY) for better returns.
-
+- **Improve Dealer Region Strategy**:Focus on for better returns.Re-evaluate pricing strategies and strengthen marketing efforts in underperforming dealer regions such as **Pasco** (+21.89% YoY) and **Middletown** (+20.21% YoY).
 ---
 
 ## Reference
