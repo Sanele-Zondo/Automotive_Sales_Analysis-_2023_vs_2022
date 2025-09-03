@@ -45,7 +45,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - Columns: `trans_id`, `transmission`, `engine`
 - Description: Transmission type and engine specifications.
 
-
+####Entity Relationship Diagram
 ![Entity Relationship Diagram](edr.png)
 ---
 
