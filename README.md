@@ -45,7 +45,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - Description: Transmission type and engine specifications.
 
 
-![Alt Text](image-path-or-URL)
+![Entity Relationship Diagram](edr.png)
 ---
 
 ## Executive Summary
@@ -61,13 +61,14 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 
 - These sales trends highlight critical seasonal opportunities and regional strengths, guiding targeted marketing efforts and inventory planning to sustain growth in 2024.
 
+![](Overview.png)
 
 ---
 
 ## Insights Deep Dive
 
 ### 1️. Sales Trends Insights
-
+![](Sales Trends.png)
 - December 2023 contributed the highest share of total sales, accounting for 14.62% of the annual revenue ($371.17M), followed by November with 13.90%. In contrast, February was the lowest-performing month, contributing only 3.19%.
 
 - In January, unit sales experienced a significant month-over-month (MoM) decline of -70.77% compared to December 2022. This drop is likely due to strong seasonal sales in December and typically low buyer activity in January.
@@ -89,7 +90,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 ---
 
 ### 2️. Product Performance & Body Style Insights (2023)
- 
+ ![](Product.png)
   - In September 2023, the sharp +104.34% month-over-month (MoM) increase in overall sales was primarily driven by a +125.32% MoM surge in Passenger Vehicles, followed by Hatchback Vehicles (+109.87% MoM). However, a -100% MoM decline in Hardtop Vehicle sales dampened the overall gain.
   
   - The October sales decline (-45.46% MoM) was largely due to a significant drop in SUV sales (-68.02% MoM), although Hardtop Vehicles rebounded impressively with a (+304.77% MoM) increase.
