@@ -1,4 +1,4 @@
-# 🚗 Automotive Sales Analysis – 2023 vs. 2022
+# Automotive Sales Analysis – 2023 vs. 2022
 
 ## Project Overview
 
@@ -24,23 +24,23 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 
 ## Data Structure Overview
 
-### `car_table`
+#### `car_table`
 - Columns: `car_id`, `sale_date`, `color`, `price`, `cust_id`, `model_id`, `transmission_id`, `dealer_id`
 - Description: Transaction-level data for each car sold, including sale details and foreign keys linking to other tables.
 
-### `customer_table`
+#### `customer_table`
 - Columns: `cust_id`, `customer_name`, `gender`, `annual_income`, `phone`
 - Description: Customer demographic and contact information.
 
-### `dealer_table`
+#### `dealer_table`
 - Columns: `dealer_id`, `dealer_name`, `dealer_number`, `dealer_region`
 - Description: Information about each dealership including location and contact.
 
-### `model_table`
+#### `model_table`
 - Columns: `model_id`, `company`, `model`, `body_style`
 - Description: Car model details including brand and body style.
 
-### `transmission_table`
+#### `transmission_table`
 - Columns: `trans_id`, `transmission`, `engine`
 - Description: Transmission type and engine specifications.
 
@@ -128,13 +128,13 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 
 ---
 
-## 📷 Reference
+## Reference
 
 - Images in Power BI dashboard sourced from [carlogos.org](https://www.carlogos.org/)
 
 ---
 
-## 🔠 Acronyms Used
+## Acronyms Used
 
 - **MoM** – Month-over-Month  
 - **YoY** – Year-over-Year
