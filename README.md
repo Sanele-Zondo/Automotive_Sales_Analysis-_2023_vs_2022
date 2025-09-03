@@ -68,7 +68,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 ## Insights Deep Dive
 
 ### 1️. Sales Trends Insights
-![](Sales Trends.png)
+
 - December 2023 contributed the highest share of total sales, accounting for 14.62% of the annual revenue ($371.17M), followed by November with 13.90%. In contrast, February was the lowest-performing month, contributing only 3.19%.
 
 - In January, unit sales experienced a significant month-over-month (MoM) decline of -70.77% compared to December 2022. This drop is likely due to strong seasonal sales in December and typically low buyer activity in January.
@@ -86,11 +86,12 @@ The goal of this analysis is to **identify and analyze the key factors** that co
 - Q4 2023 recorded the highest quarterly sales at $133.92 million, which was a 186.04% increase over Q1, the lowest-performing quarter at $46.82 million. Q4 accounted for 36.08% of the total annual sales, emphasizing the importance of year-end performance.
 
 - Both 2022 and 2023 followed similar sales trends, with peaks in September, followed by significant declines in October, and then strong surges in November and December, suggesting a recurring seasonal pattern in customer behavior.
-
+  
+  ![](SalesTrends.png)
 ---
 
 ### 2️. Product Performance & Body Style Insights (2023)
- ![](Product.png)
+
   - In September 2023, the sharp +104.34% month-over-month (MoM) increase in overall sales was primarily driven by a +125.32% MoM surge in Passenger Vehicles, followed by Hatchback Vehicles (+109.87% MoM). However, a -100% MoM decline in Hardtop Vehicle sales dampened the overall gain.
   
   - The October sales decline (-45.46% MoM) was largely due to a significant drop in SUV sales (-68.02% MoM), although Hardtop Vehicles rebounded impressively with a (+304.77% MoM) increase.
@@ -104,7 +105,7 @@ The goal of this analysis is to **identify and analyze the key factors** that co
   - SUVs contributed the most, accounting for 26.91% of total sales. Hatchbacks followed with 22.30%, while Hardtops contributed the least at 13.85%.
   
   - Units sold were higher for automatic transmissions (6,918) compared to manual transmissions (6,343). The largest divergence by transmission type was seen in the Hatchback segment, where automatic vehicles outsold manual by 454 units.
-
+ ![](Product.png)
 
 #### Revenue by Body Style (Top Brands):
 
