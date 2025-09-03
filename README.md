@@ -60,7 +60,7 @@ Product Performance – "
 
 - These sales trends highlight critical seasonal opportunities and regional strengths, guiding targeted marketing efforts and inventory planning to sustain growth in 2024.
 
-![]([Overview.png](https://github.com/Sanele-Zondo/test/blob/055e5228554a1fad33a4cd2bc38d94bfc21e9742/Dashboard/Overview.png))
+![](https://github.com/Sanele-Zondo/test/blob/055e5228554a1fad33a4cd2bc38d94bfc21e9742/Dashboard/Overview.png))
 
 ---
 
@@ -86,7 +86,7 @@ Product Performance – "
 
 - Both 2022 and 2023 followed similar sales trends, with peaks in September, followed by significant declines in October, and then strong surges in November and December, suggesting a recurring seasonal pattern in customer behavior.
   
-  ![]([SalesTrends.png](https://github.com/Sanele-Zondo/test/blob/2c472a15f32113b9ad07263b504975474d234be2/Dashboard/SalesTrends.png))
+  ![](https://github.com/Sanele-Zondo/test/blob/2c472a15f32113b9ad07263b504975474d234be2/Dashboard/SalesTrends.png))
 ---
 
 ### 2️. Product Performance & Body Style Insights (2023)
